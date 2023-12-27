@@ -1,0 +1,35 @@
+.banner{
+width:100%;
+height:800px;
+background-image:url(https://swiftype-ss.imgix.net/https%3A%2F%2Fmembers.physio-pedia.com%2Fwp-content%2Fuploads%2F2018%2F07%2Frehab-principles.jpg?ixlib=rb-1.1.0&h=320&fit=clip&dpr=2.0&s=b802777b2a1c64fcc39d5d73991fd11e);
+background-size: cover;
+
+}
+
+
+
+.navbar{
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+background-color:rgba(8, 6, 6, 0.5) !important;
+color: rgb(28, 15, 9) !important;
+
+}
+.navbar-nav{
+    color: rgb(39, 37, 37) !important;
+}
+
+.card-img-top{
+  width: 100%;
+  height: 300px;
+}
+
+
+
+.type {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  background-color: #afdf3e;
+  text-decoration: underline;
+
+}
